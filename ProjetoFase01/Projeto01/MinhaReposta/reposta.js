@@ -1,12 +1,11 @@
 /* 01) Crie uma função que dado dois valores (passados como parâmetros) mostre no console a soma, subtração,multiplicação e divisão desses valores.
 */
-function somarNumero(num1 , num2){
+function somandoNotas(num1, num2){
     console.log(num1 + num2);
     console.log(num1 - num2);
     console.log(num1 * num2);
     console.log(num1 / num2);
     console.log(num1 % num2);
-}
+} 
 
-somarNumero(3,3);
-
+somandoNotas(18,2)
