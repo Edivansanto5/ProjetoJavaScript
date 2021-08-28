@@ -6,6 +6,7 @@ function somarNumero(num1 , num2){
     console.log(num1 * num2);
     console.log(num1 / num2);
     console.log(num1 % num2);
+    console.log("teste")
 }
 
 somarNumero(3,3);
